@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run check && npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/real-time-messaging-platform-22513-22522/chatting_app_frontend"
+}
